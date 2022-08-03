@@ -1,4 +1,4 @@
-﻿namespace WebApi;
+﻿namespace Utility;
 public class Class1
 {
 
